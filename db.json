@@ -1340,6 +1340,159 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Bulbasaur",
+      "hp": "50",
+      "sprites": {
+        "front": "https://img.pokemondb.net/sprites/emerald/normal/bulbasaur.png",
+        "back": "https://img.pokemondb.net/sprites/emerald/back-normal/bulbasaur.png"
+      },
+      "id": 151
+    },
+    {
+      "name": "Bulbasaur",
+      "hp": "50",
+      "sprites": {
+        "front": "https://img.pokemondb.net/sprites/emerald/normal/bulbasaur.png",
+        "back": "https://img.pokemondb.net/sprites/emerald/back-normal/bulbasaur.png"
+      },
+      "id": 152
+    },
+    {
+      "name": "Bulbasaur",
+      "hp": "50",
+      "sprites": {
+        "front": "https://img.pokemondb.net/sprites/emerald/normal/bulbasaur.png",
+        "back": "https://img.pokemondb.net/sprites/emerald/back-normal/bulbasaur.png"
+      },
+      "id": 153
+    },
+    {
+      "name": "Bulbasaur",
+      "hp": "50",
+      "sprites": {
+        "front": "https://img.pokemondb.net/sprites/emerald/normal/bulbasaur.png",
+        "back": "https://img.pokemondb.net/sprites/emerald/back-normal/bulbasaur.png"
+      },
+      "id": 154
+    },
+    {
+      "id": 155,
+      "name": "Bulbasaur",
+      "hp": "50",
+      "sprites": {
+        "front": "https://img.pokemondb.net/sprites/emerald/normal/bulbasaur.png",
+        "back": "https://img.pokemondb.net/sprites/emerald/back-normal/bulbasaur.png"
+      }
+    },
+    {
+      "id": 156,
+      "name": "Bulbasaur",
+      "hp": "50",
+      "sprites": {
+        "front": "https://img.pokemondb.net/sprites/emerald/normal/bulbasaur.png",
+        "back": "https://img.pokemondb.net/sprites/emerald/back-normal/bulbasaur.png"
+      }
+    },
+    {
+      "id": 157,
+      "name": "Bulbasaur",
+      "hp": "50",
+      "sprites": {
+        "front": "https://img.pokemondb.net/sprites/emerald/normal/bulbasaur.png",
+        "back": "https://img.pokemondb.net/sprites/emerald/back-normal/bulbasaur.png"
+      }
+    },
+    {
+      "id": 158,
+      "name": "Pikachu",
+      "hp": "50",
+      "sprites": {
+        "front": "https://img.pokemondb.net/sprites/emerald/normal/bulbasaur.png",
+        "back": "https://img.pokemondb.net/sprites/emerald/back-normal/bulbasaur.png"
+      }
+    },
+    {
+      "id": 159,
+      "name": "Daniel Escalona",
+      "hp": "50",
+      "sprites": {
+        "front": "https://img.pokemondb.net/sprites/emerald/normal/bulbasaur.png",
+        "back": "https://img.pokemondb.net/sprites/emerald/back-normal/bulbasaur.png"
+      }
+    },
+    {
+      "id": 160,
+      "name": "Pikachu",
+      "hp": "50",
+      "sprites": {
+        "front": "https://img.pokemondb.net/sprites/emerald/normal/bulbasaur.png",
+        "back": "https://img.pokemondb.net/sprites/emerald/back-normal/bulbasaur.png"
+      }
+    },
+    {
+      "id": 161,
+      "name": "Pikachdd",
+      "hp": "50",
+      "sprites": {
+        "front": "https://img.pokemondb.net/sprites/emerald/normal/bulbasaur.png",
+        "back": "https://img.pokemondb.net/sprites/emerald/back-normal/bulbasaur.png"
+      }
+    },
+    {
+      "id": 162,
+      "name": "Pikachu",
+      "hp": "50",
+      "sprites": {
+        "front": "https://img.pokemondb.net/sprites/emerald/normal/bulbasaur.png",
+        "back": "https://img.pokemondb.net/sprites/emerald/back-normal/bulbasaur.png"
+      }
+    },
+    {
+      "id": 163,
+      "name": "Pikachu",
+      "hp": "50",
+      "sprites": {
+        "front": "https://img.pokemondb.net/sprites/emerald/normal/bulbasaur.png",
+        "back": "https://img.pokemondb.net/sprites/emerald/back-normal/bulbasaur.png"
+      }
+    },
+    {
+      "id": 164,
+      "name": "Pikachu",
+      "hp": "50",
+      "sprites": {
+        "front": "https://img.pokemondb.net/sprites/emerald/normal/bulbasaur.png",
+        "back": "https://img.pokemondb.net/sprites/emerald/back-normal/bulbasaur.png"
+      }
+    },
+    {
+      "id": 165,
+      "name": "Pikachu",
+      "hp": "50",
+      "sprites": {
+        "front": "https://img.pokemondb.net/sprites/emerald/normal/bulbasaur.png",
+        "back": "https://img.pokemondb.net/sprites/emerald/back-normal/bulbasaur.png"
+      }
+    },
+    {
+      "id": 166,
+      "name": "Pikachu",
+      "hp": "50",
+      "sprites": {
+        "front": "https://img.pokemondb.net/sprites/emerald/normal/bulbasaur.png",
+        "back": "https://img.pokemondb.net/sprites/emerald/back-normal/bulbasaur.png"
+      }
+    },
+    {
+      "id": 167,
+      "name": "Pikachu",
+      "hp": "50",
+      "sprites": {
+        "front": "https://img.pokemondb.net/sprites/emerald/normal/bulbasaur.png",
+        "back": "https://img.pokemondb.net/sprites/emerald/back-normal/bulbasaur.png"
+      }
     }
   ]
 }
